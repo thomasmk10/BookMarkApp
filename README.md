@@ -6,4 +6,3 @@ Features
 - Firebase Authenticating
 - In-App Messaging
 
-![alt text] (https://github.com/thomasmk10/BookMarkApp/blob/master/Images/BMA1.png)
