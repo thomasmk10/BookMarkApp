@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "174904400670",
+    "firebase_url": "https://bookmarkauthentication-default-rtdb.firebaseio.com",
+    "project_id": "bookmarkauthentication",
+    "storage_bucket": "bookmarkauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174904400670:android:5378cc6bd063aee9f4870f",
+        "android_client_info": {
+          "package_name": "com.example.bookmark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174904400670-qe9k0m563hdf714g3t6b0els9epprmg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPNjjFTaTldJjqvIuk0UoaQmLE-Ki8XtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174904400670-qe9k0m563hdf714g3t6b0els9epprmg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174904400670:android:7fc78ed8c861f76af4870f",
+        "android_client_info": {
+          "package_name": "com.example.partialproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174904400670-qe9k0m563hdf714g3t6b0els9epprmg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPNjjFTaTldJjqvIuk0UoaQmLE-Ki8XtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174904400670-qe9k0m563hdf714g3t6b0els9epprmg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
