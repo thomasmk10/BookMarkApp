@@ -6,5 +6,4 @@ Features
 - Firebase Authenticating
 - In-App Messaging
 
-
-<img src = “./BMA1.png”>
+![alt text] (https://github.com/thomasmk10/BookMarkApp/blob/master/Images/BMA1.png)
