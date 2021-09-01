@@ -7,4 +7,4 @@ Features
 - In-App Messaging
 
 
-<img src = “Images/BMA1.png”>
+<img src = “./Images/BMA1.png”>
